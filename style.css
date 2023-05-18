@@ -1,0 +1,277 @@
+body {
+    height: 2000px;
+    margin: 0px;
+}
+header {
+    position: relative;
+    width: 100%;
+    height: 60px;
+    background-color: rgb(62, 62, 62);
+}
+
+.end {
+    display: flex;
+    position: absolute;
+    top: 0px;
+    left: 1100px;
+    
+}
+
+.start {
+    display: flex;
+    justify-content: flex-start;
+}
+
+i {
+    color: white;
+    margin-right: 5px;
+}
+
+.start1 {
+    margin: 18px 0px 0px 10px;
+    font-size: 25px;
+}
+
+.start2 {
+    margin: 0px 15px 0px 0px;
+    font-size: 15px; 
+    color: white;
+}
+
+.start4 {
+    margin: 22px 15px 0px 10px;
+    font-size: 20px;
+}
+
+.start5 {
+    margin: 18px 0px 0px 15px;
+}
+
+.pimg {
+   width: 100%;
+   height: 60px;
+   margin-top: 0px;
+}
+
+.homeimg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    position: relative;
+    margin-bottom: 50px;
+}
+
+.himg {
+    width: 1348px;
+    height: 750px;
+}
+
+.text1 {
+    position: absolute;
+    top: 200px;
+    left: 100px;
+    color: black;
+    font-size: 44px;
+    z-index: 1; 
+       
+}
+
+.text2 {
+    position: absolute;
+    top: 280px;
+    left: 260px;
+    color: black;
+    font-size: 25px;
+    z-index: 1; 
+}
+
+.text3 {
+    position: absolute;
+    top: 350px;
+    left: 300px;
+    color: black;
+    font-size: 54px;
+    z-index: 1;    
+}
+
+.titel6 {
+    display: flex;
+    justify-content: center;
+    font-size: 34px;
+}
+
+.catigolri1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px ;
+}
+
+.cati {
+    width: 300px;
+    height: 200px;
+    margin: 20px ;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.catimg{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+h4 {
+    color: white ;
+    font-size: 27px;
+}
+
+.qs {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px ;
+}
+
+.qsdiv {
+    width: 100%;
+    margin: 5px 5px 10px 10px ;
+    height:280px;
+}
+
+.qst {
+    color:black ;
+    font-size: 20px; 
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+.qsh6 {
+    color: rgb(16, 145, 4);
+    font-size: 15px;
+    margin-left: 15px;  
+    margin-top: 5px;  
+    margin-bottom: 15px;
+
+}
+
+.qsimg {
+    margin-right: 5px;
+}
+
+.gray {
+    background-color: rgb(241, 241, 241);
+    display: flex;
+}
+
+
+.ends {
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 750px;
+}
+
+.starts {
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 10px;
+}
+
+.nn {
+  margin-right: 15px;
+}
+
+.hasoub {
+    margin: 50px 0px 20px 565px;
+}
+
+.endbar {
+  display: flex;
+  margin-right: 50px;
+}
+
+.andbartxt {
+    margin-right: 50px;
+}
+
+pre {
+    font-size: 9px;
+}
+
+h6 {
+    margin-bottom: 1px;
+    font-size: 15px;
+}
+
+.andbartxt2 {
+    margin-right: 60px;
+}
+
+.all {
+    background-color: rgb(241, 241, 241);
+    height: 1800px;
+    margin-top: 70px;
+}
+
+.prog1 {
+    display: flex; 
+    justify-content: space-between;
+    position: relative;
+}
+.progtitel {
+    position: absolute;
+    left: 10px;
+    margin-top: 80px;
+}
+
+.button {
+    border: 1px solid green;
+    font-size: 15px;
+    padding: 4px;
+    margin-top: 75px;
+    margin-right: 10px;
+}
+
+.prog2 {
+    display: flex; 
+    justify-content: space-around;
+    margin-bottom: 100px;
+}
+
+.progdiv {
+    width: 100%;
+    height: 180px;
+    margin: 10px ;
+    position: relative;
+}
+
+.progdivimg {
+    width: 100%;
+    height: 100%;
+    margin-bottom: 0px;
+    z-index: -1;
+}
+
+.progdivimgpers {
+    position: absolute;
+    bottom: 5px;
+    left: 7px;
+    width: 30px;
+    height: 30px;
+    margin-bottom: 0px;
+}
+
+.info1 {
+    margin-top: 0px;
+    font-size: 20px;
+    margin-bottom: 2px;
+}
+
+.info2 {
+    margin-top: 0px;
+    font-size: 16px;
+    margin-bottom: 2px;
+}

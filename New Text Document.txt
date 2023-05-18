@@ -1,0 +1,9 @@
+<!-- <i class="fa-solid fa-grip-lines"></i> line -->
+    <!-- <i class="fa-solid fa-plus"></i> plus -->
+    <!-- <i class="fa-solid fa-folder-open"></i> folder -->
+    <!-- <i class="fa-solid fa-truck"></i> truck
+         <i class="fa-solid fa-magnifying-glass"></i> search
+         <i class="fa-solid fa-cart-shopping"></i> shop
+         <i class="fa-solid fa-envelope"></i> email
+         <i class="fa-solid fa-bell"></i> bell
+         <i class="fa-solid fa-cubes"></i> cube -->
